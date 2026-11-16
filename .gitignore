@@ -1,0 +1,27 @@
+# Nunca publicar jogos, BIOS ou imagens do cartao
+*.gba
+*.gb
+*.gbc
+*.nes
+*.sfc
+*.smc
+*.md5
+*.bin
+*.iso
+*.chd
+*.cue
+*.zip
+*.7z
+*.img
+*.img.xz
+roms/
+bios/
+gamelist.xml
+images/
+# Gerados em tempo de execucao
+__pycache__/
+*.part
+easyroms/tools/BarbaDrop/cache/
+easyroms/tools/BarbaDrop/log.txt
+easyroms/tools/BarbaOS_relatorio.txt
+backup_*/

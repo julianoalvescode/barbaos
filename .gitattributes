@@ -1,0 +1,12 @@
+*.sh   text eol=lf
+*.py   text eol=lf
+*.ascii text eol=lf
+*.json text eol=lf
+*.ps1  text eol=crlf
+*.bmp  binary
+*.jpg  binary
+*.png  binary
+*.ttf  binary
+*.bat  text eol=crlf
+*.html text eol=lf
+*.md   text eol=lf
